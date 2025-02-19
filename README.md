@@ -22,12 +22,13 @@ Conceitos básicos desenvolvidos durante as aulas de Programação Web II, lecio
 - Passo 3: Abra a pasta **"htdocs" (atalho no botão "Explorer" no Xampp)** e, com o terminal, clone o repositório
 <img src = "img/Passo4.jpg">
 <img src = "img/Passo5.jpg">
+
 ```COLE O CÓDIGO: git clone https://github.com/possatogabriel/PWII-Gabriel-Possato.git```
 
 - Passo 4: Veja os arquivos pelo **"localhost"** no seu navegador de preferência 
 <img src = "img/Passo6.jpg">
-```COLE O CÓDIGO: localhost//PWII-Gabriel-Possato```
 
+```COLE O CÓDIGO: localhost//PWII-Gabriel-Possato```
 
 ## 🙋 Autores
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/136634888?v=4" width=80 alt = "Ícone da Foto de Perfil"> <br> <sub> Gabriel Possato </sub>](https://github.com/possatogabriel)
