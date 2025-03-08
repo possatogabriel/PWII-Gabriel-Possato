@@ -9,7 +9,7 @@ Conceitos básicos desenvolvidos durante as aulas de Programação Web II, lecio
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height = "40" alt = "Ícone Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height = "40"/>
           
-## 🛠️ Como executar o programa
+## 🛠️ Como executar o programa (PHP)
 
 - Passo 1: Copie o link do repositório ***(clique em "Code")***
 <img src = "img/Passo1.jpg">
